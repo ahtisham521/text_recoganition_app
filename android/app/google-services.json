@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "229926405891",
+    "project_id": "textreader-40d61",
+    "storage_bucket": "textreader-40d61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229926405891:android:288a3a2dcf6498dfb28b36",
+        "android_client_info": {
+          "package_name": "com.example.text_Reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229926405891-4i206vjs2g5q0ads38nj0q4120e93qf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.text_Reader",
+            "certificate_hash": "6148edba59d9f8cf539abc564c19cc66b27f90b5"
+          }
+        },
+        {
+          "client_id": "229926405891-f6842a0u0gvobuemm71ru90e9lv1e9nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB88IZNK1Qt4p5YIoVwRGQ_SyfJGE0KOTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229926405891-f6842a0u0gvobuemm71ru90e9lv1e9nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
