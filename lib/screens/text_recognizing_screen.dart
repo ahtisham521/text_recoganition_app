@@ -87,6 +87,7 @@ class _TextRecognitionWidgetState extends State<TextRecognitionWidget> {
     List<String> newTxt = newText.split(',');
     newTxt.forEach((element) => setState(() {
           text = element;
+          print(text);
         }));
   }
 }
